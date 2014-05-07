@@ -18,5 +18,3 @@ method: :delete, data: { confirm: '¿Estás seguro?' } %>
 </tr>
 <% end %>
 </table>
-
-

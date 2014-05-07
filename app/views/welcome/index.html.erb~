@@ -1,5 +1,5 @@
 <%= link_to "Mi Blog", controller: "posts" %>
 
-<h1>Aleblog</h1>
-<p>Esto es una tarea</p>
+<h1>Blogsssster</h1>
+<p>blablalbla</p>
 
