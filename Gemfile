@@ -6,7 +6,8 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'devise'
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'mysql2', :group => [:production]
+gem 'sqlite3', :group => [:development, :test]
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
